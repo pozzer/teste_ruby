@@ -1,1 +1,1 @@
-#TOKEN = ENV["TOKEN_API"] || "token"
+TOKEN = ENV["TOKEN_API"]
