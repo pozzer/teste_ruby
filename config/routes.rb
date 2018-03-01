@@ -8,5 +8,5 @@ Rails.application.routes.draw do
   end
 
 
-  root to: "apipie/apipies#index"
+  #root to: "apipie/apipies#index"
 end
